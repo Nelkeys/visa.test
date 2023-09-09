@@ -133,7 +133,10 @@ footer .texts{
     }
 
     .info{
-        margin-left: 2rem;
+        margin-left: .8rem;
+    }
+    .special{
+        font-size: 6.2px;
     }
     .container{
         font-size: 8px;
